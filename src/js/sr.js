@@ -27,7 +27,7 @@ export default function initSr() {
     ".hero-title",
     assignProps(
       {
-        delay: 500,
+        delay: 400,
         origin: window.innerWidth > 768 ? "left" : "bottom",
       },
       defaultProps
